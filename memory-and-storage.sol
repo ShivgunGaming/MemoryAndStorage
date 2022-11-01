@@ -5,7 +5,7 @@ contract MemoryAndStorage {
     //Storage = Permanently stored on the blockchain.
     //Memory =  Temporarily stored on the blockchain.
     //Must keep storage and memory seperate.
-    //Calldata = Like memory but READ-ONLY. More explination next course 201.
+    //Calldata = Like memory but READ-ONLY. More explination next course Solidity 201.
 
     //Note that you don't have to declare said storage & memory keywords because Solidity automatically does it for you,
     //but if have a complex data type like array or structs, you will need to specify where to store them.
